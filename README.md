@@ -17,4 +17,4 @@ A Linear Regression model from scikit-learn was applied. It was trained on histo
 
 # Key Results and Findings
 
-The model showed high accuracy on training data (R² ≈ 0.99) but performed poorly on testing data (R² ≈ -1.17). This highlights overfitting and suggests Linear Regression isn’t suitable for stock price prediction due to market volatility.
+The model showed high accuracy on training data of (R² ≈ 0.99).
